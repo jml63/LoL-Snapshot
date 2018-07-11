@@ -15,3 +15,4 @@ Currently using Xampp to host and test locally
 
 ### To-do
 * Fix errors for summoners with no rank / match history
+* Load things faster/display something while loading
