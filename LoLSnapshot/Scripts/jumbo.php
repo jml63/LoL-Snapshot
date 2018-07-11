@@ -1,6 +1,6 @@
 <?php
     session_start();
-    $apikey = "RGAPI-4b92b6b4-2120-4cfc-b431-37fe98a2aa82";
+    $apikey = "";
 
     //take a url and return decoded json using riot API
     function curl($url) {
