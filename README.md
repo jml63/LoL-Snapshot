@@ -14,5 +14,8 @@ The tech used in making this:
 Currently using Xampp to host and test locally
 
 ### To-do
-* Fix errors for summoners with no rank / match history
+* Fix errors for summoners with no rank / match history / incorrect api key
 * Load things faster/display something while loading
+* Landing page that takes api key and summoner name
+* Add search bar on main page
+* Example page for no api key
